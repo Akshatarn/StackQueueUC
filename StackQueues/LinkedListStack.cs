@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StackQueues
 {
-    public class LinkedListStackQueue
+    public class LinkedListStack
     {
         public Node top;
         public void Push(int data)      //UC1 .
